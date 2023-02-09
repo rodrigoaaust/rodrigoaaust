@@ -1,4 +1,4 @@
-### Ola! Sejam Bem Vindos ao meu perfil.
+### Olá! Sejam Bem Vindos ao meu perfil.
 
 - Sou publicitário.
 - Estudo Front-end no SENAI.
